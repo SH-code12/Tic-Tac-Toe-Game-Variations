@@ -1,0 +1,223 @@
+[
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\Connect_four_Board.cpp"
+        ],
+        "dependencies": [],
+        "id": 1
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\GameManager.cpp"
+        ],
+        "dependencies": [],
+        "id": 3
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\Player2.cpp"
+        ],
+        "dependencies": [],
+        "id": 10
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\Game3_X_O_Board.cpp"
+        ],
+        "dependencies": [],
+        "id": 2
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\GameManager1.cpp"
+        ],
+        "dependencies": [],
+        "id": 4
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\GameManager2.cpp"
+        ],
+        "dependencies": [],
+        "id": 5
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\GameManager3.cpp"
+        ],
+        "dependencies": [],
+        "id": 6
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\Menu.cpp"
+        ],
+        "dependencies": [],
+        "id": 7
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\Player.cpp"
+        ],
+        "dependencies": [],
+        "id": 8
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\Player1.cpp"
+        ],
+        "dependencies": [],
+        "id": 9
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\RandomPlayer.cpp"
+        ],
+        "dependencies": [],
+        "id": 12
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\Player3.cpp"
+        ],
+        "dependencies": [],
+        "id": 11
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\RandomPlayer1.cpp"
+        ],
+        "dependencies": [],
+        "id": 13
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\RandomPlayer2.cpp"
+        ],
+        "dependencies": [],
+        "id": 14
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\RandomPlayer3.cpp"
+        ],
+        "dependencies": [],
+        "id": 15
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\X_O_Board.cpp"
+        ],
+        "dependencies": [],
+        "id": 16
+    },
+    {
+        "arguments": [
+            "C:\\Program Files\\JetBrains\\CLion 2022.3\\bin\\mingw\\bin\\g++.exe",
+            "-IC:/Users/DELL/Desktop/A3_Task_2_S17_S18_S22_20220533_20220083_20220357/.",
+            "-g",
+            "-fdiagnostics-color=always",
+            "-std=gnu++14",
+            "-DPVS_STUDIO",
+            "C:\\Users\\DELL\\Desktop\\A3_Task_2_S17_S18_S22_20220533_20220083_20220357\\pyramid_X_O_Board.cpp"
+        ],
+        "dependencies": [],
+        "id": 17
+    }
+]
